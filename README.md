@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/sruthiviswanadham/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151760421/6ac4939b-5283-4426-96c9-a6d2da5a6f92)
+### Name: VISWANADHAM VENKATA SAI SRUTHI
+### Register Number: 212223100061
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
